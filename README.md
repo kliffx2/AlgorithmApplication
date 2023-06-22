@@ -8,4 +8,3 @@ Dynamic Programming
 Greedy
 Boyer-Moore-Horspool
 Z Algorithm
-
