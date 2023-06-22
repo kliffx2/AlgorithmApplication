@@ -1,10 +1,10 @@
 # AlgorithmApplication
-Algorithms used in this respository:
-Recursion
-Backtracking
-Generation
-Divide and Conquer
-Dynamic Programming
-Greedy
-Boyer-Moore-Horspool
-Z Algorithm
+Algorithms used in this respository: <br>
+Recursion <br>
+Backtracking <br>
+Generation <br>
+Divide and Conquer <br>
+Dynamic Programming <br>
+Greedy <br>
+Boyer-Moore-Horspool <br>
+Z Algorithm <br>
